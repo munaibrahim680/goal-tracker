@@ -1,0 +1,29 @@
+{
+    "disabledGoals": [],
+    "enabledGoals": [
+        {
+            "scores": [{
+                "date": "2023-08-08",
+                "value": 3
+            }],
+            "isEnabled": true,
+            "name": "study"
+        },
+        {
+            "scores": [{
+                "date": "2023-08-08",
+                "value": 4
+            }],
+            "isEnabled": true,
+            "name": "workout"
+        },
+        {
+            "scores": [{
+                "date": "2023-08-08",
+                "value": 2
+            }],
+            "isEnabled": true,
+            "name": "eat healthy"
+        }
+    ]
+}

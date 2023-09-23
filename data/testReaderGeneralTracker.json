@@ -1,0 +1,41 @@
+{
+  "disabledGoals": [
+    {
+      "scores": [{
+        "date": "2023-07-26",
+        "value": 5
+      }],
+      "isEnabled": false,
+      "name": "sleep"
+    }
+  ],
+
+  "enabledGoals": [
+    {
+      "scores": [
+        {
+          "date": "2023-07-26",
+          "value": 4
+        },
+        {
+          "date": "2023-07-27",
+          "value": 3
+        }],
+      "isEnabled": true,
+      "name": "study"
+    },
+    {
+      "scores": [
+        {
+          "date": "2023-07-26",
+          "value": 4
+        },
+        {
+          "date": "2023-07-27",
+          "value": 3
+        }],
+      "isEnabled": true,
+      "name": "workout"
+    }
+  ]
+}
